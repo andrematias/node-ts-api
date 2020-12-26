@@ -1,0 +1,10 @@
+{
+  "name": "node-ts-api",
+  "version": "1.0.0",
+  "description": "TypeScript Node API",
+  "main": "index.js",
+  "repository": "https://github.com/andrematias/node-ts-api.git",
+  "author": "André Matias <dev.andrematias@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
